@@ -1,3 +1,3 @@
 function load{
-	say hi
+	say fetchbot is not a man
 }
