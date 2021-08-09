@@ -1,0 +1,3 @@
+function load{
+	say hi
+}
